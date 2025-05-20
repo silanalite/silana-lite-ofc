@@ -1,65 +1,59 @@
-<h1 align="center">✨ Silana Lite - Official Repository ✨</h1>
+<h1 align="center">🚀 Silana Lite - WhatsApp Bot</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Whatsapp-Bot-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp Bot Badge" />
-  <img src="https://img.shields.io/badge/Powered_by-Baileys-blueviolet?style=for-the-badge" alt="Baileys Badge" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Built_with-Baileys-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/noureddineouafy/silana-bot?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>A powerful, lightweight and beginner-friendly WhatsApp bot by <a href="https://github.com/noureddineouafy">Noureddine</a>.</b>
 </p>
 
 ---
 
-## 📌 About Me
+## 🙋‍♂️ About Me
 
-> **Note:** *I'm not a developer, and I haven’t learned any programming languages. I just know how to copy and paste — that’s it!*  
+> *I’m not a developer — I just know how to copy & paste, and it works!*  
 > 🤣🤣🙏❤️♥️
 
-- 👤 **Name:** Noureddine  
-- 📌 **GitHub:** [noureddineouafy](https://github.com/noureddineouafy)  
-- 📌 **Instagram:** [@noureddine_ouafy](https://instagram.com/noureddine_ouafy)  
-- 📌 **Facebook:** [My Facebook Profile](https://www.facebook.com/profile.php?id=100063533185520)  
+- **Name:** Noureddine  
+- **GitHub:** [@noureddineouafy](https://github.com/noureddineouafy)  
+- **Instagram:** [@noureddine_ouafy](https://instagram.com/noureddine_ouafy)  
+- **Facebook:** [My Facebook Profile](https://www.facebook.com/profile.php?id=100063533185520)  
 
 ---
 
-## 📺 My Channels and Platforms
+## 🌐 My Platforms & Channels
 
-- **🎬 YouTube Channel:**  
-  [Watch my videos](https://youtube.com/@noureddineouafy2?si=rqfc1sb_YxOEYufE)
+- **YouTube:**  
+  [Watch my bot tutorials](https://youtube.com/@noureddineouafy2?si=rqfc1sb_YxOEYufE)
 
-- **📣 WhatsApp Channel:**  
+- **WhatsApp Channel:**  
   [Join Main Channel](https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A)
 
-- **🛠️ Backup WhatsApp Channel:**  
+- **Backup WhatsApp Channel:**  
   [Join Backup Channel](https://whatsapp.com/channel/0029Vaz5bJz3mFY2ccGBev1n)
 
 ---
 
-## 🚀 About the Project
+## 💡 About Silana Lite
 
-**Silana Lite** is a powerful yet lightweight version of the original Silana bot, built using the `Baileys` library.
+**Silana Lite** is a simple but powerful WhatsApp bot using the [Baileys](https://github.com/adiwajshing/Baileys) library, packed with useful and creative features.
 
-### ✅ Features:
-- 📥 Download videos/images from **YouTube**, **Instagram**, **Facebook**, etc.  
-- 🤖 AI-powered responses and automation.  
-- 🗣️ Convert **Text-to-Speech** in multiple languages.  
-- ⚙️ Easily customizable with user-requested features.  
-- ⬇️ More features being added constantly!
-
----
-
-## 💡 How to Contribute
-
-Want to contribute? It’s easy:  
-1. Fork the repo  
-2. Make your changes  
-3. Submit a Pull Request!
-
-> *Every little contribution helps!*
+### ✨ Features:
+- 🔽 Download media from YouTube, Instagram, Facebook & more  
+- 🤖 Smart AI auto-replies & text generation  
+- 🗣️ Text-to-speech in multiple languages  
+- ✏️ Custom command plugins  
+- 📦 Easy to extend & modify
 
 ---
 
-<p align="center">
-  <strong>Stay connected and follow my journey for more bots and tools!</strong>  
-</p>
+## ⚙️ Installation
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="200" />
-</p>
+```bash
+git clone https://github.com/noureddineouafy/silana-bot
+cd silana-bot
+npm install
+npm start
